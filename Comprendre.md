@@ -9,3 +9,6 @@ Essayez de synthétiser en binôme votre compréhension de la notion que vous av
 - Quelles sont les nuances d'un langage à l'autre ? 
 - Existe-t-il des contextes (langages, environnements, outils) où elle n'existe pas ? 
 - Quelles sont ses alternatives ? 
+
+
+Les réponses sont dans le PDF : TESTS_et_TDD.pdf
