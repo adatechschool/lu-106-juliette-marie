@@ -39,5 +39,5 @@ function createArray(){
 
 createArray()
      
-module.exports = fizzbuzz;
+//module.exports = fizzbuzz;
 module.exports = createArray;
